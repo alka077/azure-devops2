@@ -1,4 +1,5 @@
 import click
+var=
 
 @click.command(help="this is just a hello app, it has nothing")
 @click.option("--name", prompt="I need your name", help="Need Name")
