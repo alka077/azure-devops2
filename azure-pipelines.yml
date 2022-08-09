@@ -8,6 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+  name: myAgentPool
 
 steps:
 - script: echo Hello, world!
