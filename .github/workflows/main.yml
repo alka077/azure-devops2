@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run make command
-        run: make Hello
+        run: make hello
 
